@@ -1,0 +1,2 @@
+
+const PRIVATE_KEY = "0xabc123abc123abc123abc123abc123abc123abc123abc123abc123abc123abcd";
